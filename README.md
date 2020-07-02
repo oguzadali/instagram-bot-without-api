@@ -9,9 +9,10 @@
 !If your ethernet connection is slow , bot will not work. You should increase the integer in time()
 
 
-
 Installations
+
 pip install selenium,
+
 pip install webdriver-manager
 
 WebDriverManager is a library which allows to automate the management of the binary drivers
